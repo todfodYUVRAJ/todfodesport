@@ -1,13 +1,10 @@
 ## Welcome to TODFOD ESPORTS
 
-You can use the [editor on GitHub](https://github.com/todfodYUVRAJ/todfodesport/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ABOUT TODFOD ESPORTS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+TODFOD Esports was founded in February,2019 with the objective to make players aware of the unique opportunity that esports provides to reach highly engaged audience. Authenticity and transparency are one of the important guiding principles for TODFOD Esports. It consists of sensible and committed guys who are capable of organising online and offline tournaments. 
 ```markdown
 Syntax highlighted code block
 
@@ -23,7 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://discord.gg/snk66PXN4d) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
